@@ -40,7 +40,6 @@ fn get_atomic_masses() -> HashMap<&'static str, f64> {
     masses.insert("Se", 78.971);
     masses.insert("Br", 79.904);
     masses.insert("Kr", 83.798);
-     // Hi , you can add more elements if you want xD
 
     masses
 }
